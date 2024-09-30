@@ -1,0 +1,304 @@
+body {
+    height: 1340vh;
+    background-attachment: fixed;
+}
+
+.head {
+    /* border: 2px solid black;  */
+    height: 12vh;
+}
+
+
+.head h1 {
+    margin: 0px;
+    padding: 12px;
+    margin-left: 20px;
+    font-size: 41px;
+}
+
+ul li {
+    display: inline-block;
+    margin: 3px;
+    padding: 2px;
+}
+
+ul {
+    position: absolute;
+    right: 28px;
+    top: 20px;
+}
+
+button {
+    background-color: rgb(240, 68, 0);
+    border-radius: 10px;
+    border: none;
+    color: white;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+.site {
+    /* border: 2px solid black; */
+    width: 50%;
+    margin: 12px;
+    position: absolute;
+    left: 25%;
+    height: 1397vh;
+
+
+}
+
+.site img:hover {
+    cursor: zoom-in;
+}
+
+.con {
+    font-size: 22px;
+    line-height: 3px;
+    color: rgb(77, 76, 76);
+}
+
+#pas {
+    color: orangered;
+}
+
+.site img {
+    margin: 33px;
+}
+
+.site a {
+    color: black
+}
+
+.par {
+    color: black;
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.pan span {
+    font-size: 25px;
+    color: black;
+}
+
+#ceck {
+    /* border: 2px solid black; */
+    height: 25vh;
+    line-height: 4px;
+    font-size: 16px;
+    text-align: justify;
+}
+
+#ceck a {
+    text-decoration: none;
+
+
+}
+
+#ceck img {
+    position: relative;
+    bottom: 139px;
+    left: 556px;
+}
+
+#boot {
+    font-size: small;
+    font-weight: 500;
+}
+
+.foot a {
+    text-decoration: none;
+    margin: 4px;
+    padding: 5px;
+    background-color: rgb(230, 222, 222);
+}
+
+.tor {
+    border: none;
+    border-radius: 20px;
+}
+
+footer img {
+    height: 55px;
+    width: 60px;
+    border-radius: 47px;
+    position: absolute;
+    right: 360px;
+    bottom: 18.2%;
+}
+
+.cls {
+    /* border: 2px solid black; */
+    height: 190px;
+}
+
+#btns {
+    width: 57px;
+    height: 30px;
+    position: relative;
+    left: 490px;
+    bottom: 40px;
+}
+
+.bord {
+    /* border: 1px solid black; */
+    height: 63vh;
+}
+
+.oas {
+    /* border: 2px solid black; */
+    width: 370px;
+    height: 60vh;
+    position: relative;
+    left: 375px;
+    bottom: 401px;
+
+}
+
+.oas a {
+    text-decoration: none;
+}
+
+.mon {
+    text-decoration: none;
+    text-align: justify;
+}
+
+#kas {
+    /* border: 2px solid black; */
+    width: 370px;
+    height: 60vh;
+}
+
+#kas a {
+    text-decoration: none;
+}
+
+.bords {
+    /* border: 2px solid black; */
+    height: 63vh;
+}
+
+.kasa {
+    /* border: 2px solid black; */
+    width: 370px;
+    height: 60vh;
+}
+
+.oasa {
+    /* border: 2px solid black; */
+    width: 370px;
+    height: 60vh;
+    position: relative;
+    left: 375px;
+    bottom: 404px;
+}
+
+.oasa a {
+    text-decoration: none;
+}
+
+.think {
+
+    /* border: 1px solid black; */
+    border-radius: 9px;
+    text-decoration: none;
+    background-color: rgb(202, 199, 199);
+}
+
+.song {
+    /* border: 2px solid black; */
+    height: 63vh;
+}
+
+.cash {
+    /* border: 2px solid black; */
+    width: 370px;
+    height: 60vh;
+}
+
+.cash a {
+    text-decoration: none;
+}
+
+.gls {
+    /* border: 2px solid black; */
+    width: 370px;
+    height: 60vh;
+    position: relative;
+    left: 375px;
+    bottom: 404px;
+}
+
+.gls a {
+    text-decoration: none;
+}
+
+.bara {
+    /* border: 2px solid black; */
+    height: 39vh;
+}
+
+.bara a {
+    text-decoration: none;
+}
+
+.don {
+    line-height: 0%;
+    position: relative;
+    left: 150px;
+    bottom: 95px;
+}
+
+.gum {
+    position: relative;
+    left: 390px;
+    bottom: 179px;
+}
+
+#mbl {
+    position: relative;
+    left: 2px;
+    bottom: 280px;
+}
+
+#sad {
+    position: relative;
+    left: 387px;
+    bottom: 455px;
+}
+
+#think {
+    border: 2px solid black;
+    width: 255px;
+    height: 7vh;
+    border-radius: 27px;
+    background-color: rgb(216, 216, 216);
+    text-align: justify;
+}
+
+#think a {
+    text-decoration: none;
+    text-align: center;
+}
+
+#musk {
+    position: relative;
+    top: 9490px;
+    left: -440px;
+}
+
+#musk a {
+    color: rgb(97, 95, 95);
+}
+
+.pay {
+    border-left: 4px solid black;
+}
+
+.void {
+    text-align: center;
+    color: rgb(151, 148, 148);
+}
